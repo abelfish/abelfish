@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I am a big fan of solving everyday problems with code. I enjoy coding in multiple languages such as java and javascript. I am always learning new technologies and tools to perfect the art of writing functional and clean code. Here are some of my skills and projects I have worked on so far.
+I am a big fan of solving everyday problems with code. I enjoy coding in multiple languages such as java and javascript. I am always learning new technologies and tools to perfect the art of writing functional and clean code. Here are some of the skills and projects I have worked on so far.
 Enjoy!
 
 #
