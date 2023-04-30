@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a full stack software engineer. I enjoy coding in multiple languages such as java and javascript. I am always learning new technologies and tools to perfect the art of writing functional and clean code. Here are some of my skills and projects I have worked on so far. 
+Enjoy!
 
 <!--
 **abelfish/abelfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
